@@ -35,7 +35,7 @@ To run this you need to have
     DB_PASSWORD=
     ```
 
-### Local DB
+### Local DB (optional)
 
 Note: You don't need this if you are not working on commands that rely on a database. Additionally, we use PostgreSQL.
 
