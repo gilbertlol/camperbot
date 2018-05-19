@@ -92,7 +92,7 @@ For a full, detailed list of commands, go here: https://sirmerr.github.io/camper
 * `!help` | `!h`: Either shows a help for a single command, or DMs you a help link if no parameters are specified.
 * `!knowme`: Checks if you are in the `accounts` table, and adds you if you're not
 * `!repopulate`: [**FireStarter**] Add every member of the server/guild who isn't in the `accounts` table
-* `!marshmellow [@username]` | `!mm [@username]`: Gives someone a marshmellow for being helpful (you can give marshmellows to multiple people at a time (ex: `!marshmellow @username1 @username2`)
+* `!marshmallow [@username]` | `!mm [@username]`: Gives someone a marshmellow for being helpful (you can give marshmellows to multiple people at a time (ex: `!marshmellow @username1 @username2`)
 * `!mine`: Shows whoever triggered this command how many marshmellows they have
 
 ## Upcoming Features
